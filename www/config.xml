@@ -4,9 +4,9 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "https://github.com/thicketta/AutoBuildTest"
         id        = "com.sanderson.AutoBuildTest"
-        version   = "0.0.5">
+        version   = "0.0.10">
 
-    <name>Test Build</name>
+    <name>AutoBuildTest Two</name>
 
     <description>
         Hello World Sample App to test if builds work correctly.
