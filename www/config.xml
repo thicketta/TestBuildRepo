@@ -2,18 +2,17 @@
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
-        xmlns:gap = "https://github.com/thicketta/AutoBuildTest"
-        id        = "com.sanderson.AutoBuildTest"
-        version   = "0.0.10">
+        id        = "com.sanderson.unity.AutoBuildTest"
+        version   = "1.0.15">
 
-    <name>AutoBuildTest Two</name>
+    <name>Auto Build Test</name>
 
     <description>
-        Hello World Sample App to test if builds work correctly.
+        Testing Build of IOS Cert
     </description>
 
-    <author href="" email="">
-		Nobody
+    <author href="alex.thickett@sanderson.com" email="">
+		Alex
     </author>
 
     <!-- Define the main entry-point to the application -->
