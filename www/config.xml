@@ -3,12 +3,12 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         id        = "com.sanderson.unity.AutoBuildTest"
-        version   = "1.0.15">
+        version   = "0.0.11">
 
-    <name>Auto Build Test</name>
+    <name>AutBuildTest Two</name>
 
     <description>
-        Testing Build of IOS Cert
+        Hello World Sample App
     </description>
 
     <author href="alex.thickett@sanderson.com" email="">
